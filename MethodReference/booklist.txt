@@ -1,0 +1,9 @@
+Mastering Concurrency programming with java 8 - Javier Fernández González - publication PACKT
+Modern Concurrency in Java  - by ANM Bazlur Rahman - O'Reilly Media inc
+Java Network Programming 4th edition - Elliotte Rusty Harold - O'Reilly Media inc
+Modern Java in Action Author(s): Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft
+Competitive Programming 4 - Book 1
+Competitive Programming 4 - Book 2 by Felix Halim, Steven halim
+Competitive Programmer’s Handbook - Antti Laaksonen
+Art of programming contest (C Programming-Data Structure-Algorithms) - Ahmed Samsul Arefin
+Learn SQL Database Programming: Query and manipulate databases from popular relational  database servers using SQL - Josephine Bush
